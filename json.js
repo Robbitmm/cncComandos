@@ -42,7 +42,7 @@ G = [
         ],
         [
             "G4",
-            ['*', '*', "*"],
+            ['X_', 'U_', 'P_'],
             "Tempo de permanência"
         ],
         [
@@ -166,7 +166,7 @@ M = [
         ],
         [
             "M04",
-            ['X_', 'U_', 'P_'],
+            [],
             "Sentido <span>horário</span> de rotação do eixo árvore"
         ],
         [
