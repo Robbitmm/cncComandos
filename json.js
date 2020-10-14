@@ -150,42 +150,42 @@ G = [
 M = [
         "Micelâneas",
         [
-            "M0",
+            "M00",
             [],
             "Parada programada"
         ],
         [
-            "M2",
+            "M02",
             [],
             "Fim de programa"
         ],
         [
-            "M3",
+            "M03",
             [],
             "Sentido <span>anti-horário</span> de rotação do eixo árvore"
         ],
         [
-            "M4",
+            "M04",
             [],
             "Sentido <span>horário</span> de rotação do eixo árvore"
         ],
         [
-            "M5",
+            "M05",
             [],
             "Desloga o eixo árvore sem orientação <span class='obs'>(fuso para em qualquer posição)</span>"
         ],
         [
-            "M7",
+            "M07",
             [],
             "<span>Liga</span> o óleo solúvel <span class='obs'>(alta pressão)</span>"
         ],
         [
-            "M8",
+            "M08",
             [],
             "<span>Liga</span> o óleo solúvel <span class='obs'>(baixa pressão)</span>"
         ],
         [
-            "M9",
+            "M09",
             [],
             "<span>Desliga</span> o óleo solúvel"
         ],
