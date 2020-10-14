@@ -42,8 +42,11 @@ G = [
         ],
         [
             "G4",
-            ['X_', 'U_', 'P_'],
-            "Tempo de permanência"
+            ['X_', 'Y_', 'P_'],
+            ["Tempo de permanência",
+            "Em <span>segundos</span>",
+            "Em <span>segundos</span>",
+            "Em <span>milésimos</span> de <span>segundos</span>"]
         ],
         [
             "G10",
